@@ -1,6 +1,3 @@
-I updated your README from the uploaded version, keeping your animated hero section and profile structure while making the layout more recruiter-focused and using justified text blocks where GitHub supports it. 
-
-```markdown
 <!-- ===================== HERO SECTION ===================== -->
 
 <h1 align="center">👋 Hi, I'm ROHIT&nbsp;N</h1>
