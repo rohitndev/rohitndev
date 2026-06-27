@@ -15,10 +15,6 @@
 <a href="https://www.credly.com/users/rohit-n.17/badges/credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 <a href="mailto:dev.rohitn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-</div>
-
----
-
 ## 🧑‍💻 About Me
 
 <img align="right" width="380" src="assets/workspace.png" alt="data analyst workspace" />
@@ -183,7 +179,7 @@
 
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=rohitndev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
-</div>
+<div>
 
 <!-- ===================== CONTRIBUTION SNAKE (animated) ===================== -->
 <picture>
