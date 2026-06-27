@@ -1,6 +1,6 @@
 <!-- ===================== GREETING ===================== -->
 <h1 align="center">👋 Hi, I'm ROHIT&nbsp;N</h1>
-<h3 align="center">📊 Data Scientist &nbsp;·&nbsp; 🏗️ Data Engineer &nbsp;·&nbsp; 🤖 Machine Learning Engineer &nbsp;·&nbsp; 📈 Business &amp; Data Analyst &nbsp;·&nbsp; ☁️ Cloud &amp; MLOps</h3>
+<h3 align="center">📊 Data Scientist &nbsp;·&nbsp; 🏗️ Data Engineer &nbsp;·&nbsp; 🤖 Machine Learning Engineer &nbsp;·&nbsp; 📈 Business &amp; Data Analyst &nbsp;·&nbsp </h3>
 
 <div align="center">
 
@@ -46,12 +46,7 @@
 ### 💻 I Code In
 #### The languages I think, prototype, and ship production systems in
 
-<img height="50" width="50" title="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
-<img height="50" width="50" title="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img height="50" width="50" title="R" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/r-lang.svg" />
-<img height="50" width="50" title="Scala" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/scala.svg" />
-<img height="50" width="50" title="JavaScript" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
-<img height="50" width="50" title="Bash" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg" />
+<img height="50" width="50" title="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" /> <img height="50" width="50" title="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img height="50" width="50" title="R" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/r-lang.svg" /> <img height="50" width="50" title="Scala" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/scala.svg" /> <img height="50" width="50" title="JavaScript" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" /> <img height="50" width="50" title="Bash" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg" />
 
 ### 🤖 I Build Intelligence With
 #### Machine Learning, Deep Learning & Generative / Agentic AI
