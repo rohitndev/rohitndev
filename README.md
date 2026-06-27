@@ -63,7 +63,7 @@
 
 </div>
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="Center">🛠️ Tech Stack</h2>
 
 <h3 align="left">💻 I Code In</h3>
 <h4 align="left"><b>The languages I think, prototype, and ship production systems in</b></h4>
