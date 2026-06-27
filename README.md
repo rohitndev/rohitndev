@@ -1,12 +1,10 @@
 <!-- ===================== GREETING ===================== -->
 <h1 align="center">👋 Hi, I'm ROHIT&nbsp;N</h1>
-<h3 align="center">🤖 AI Engineer &nbsp;·&nbsp; 📊 Data Scientist &nbsp;·&nbsp; 🏗️ Data Engineer &nbsp;·&nbsp; ☁️ Cloud &amp; MLOps Practitioner</h3>
+<h3 align="center">📊 Data Scientist &nbsp;·&nbsp; 🏗️ Data Engineer &nbsp;·&nbsp; 🤖 Machine Learning Engineer &nbsp;·&nbsp; 📈 Business &amp; Data Analyst &nbsp;·&nbsp; ☁️ Cloud &amp; MLOps</h3>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2C9CF0&center=true&vCenter=true&width=850&height=60&lines=%E2%9C%A8+Transforming+Data+into+Intelligence;%F0%9F%A7%A0+Intelligence+into+Strategy;%F0%9F%9A%80+Strategy+into+Measurable+Impact;%E2%9A%99%EF%B8%8F+Building+Scalable%2C+AI-Powered+Data+Platforms)](https://git.io/typing-svg)
-
-<h4>🤖 Agentic AI &nbsp;·&nbsp; 🧠 Machine Learning &nbsp;·&nbsp; 🏗️ Data Engineering &nbsp;·&nbsp; ☁️ Cloud &amp; MLOps &nbsp;·&nbsp; 📈 Measurable Business Impact</h4>
 
 <a href="https://www.linkedin.com/in/rohit-n-148624418/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://rohit-portfolio-rho-gules.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -15,15 +13,17 @@
 <a href="https://www.credly.com/users/rohit-n.17/badges/credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 <a href="mailto:dev.rohitn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="assets/workspace.png" alt="data analyst workspace" />
-<!-- 🔁 Save uploaded Image 2 into your repo as  assets/workspace.png  -->
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
 
 <div align="justify">
 
-- 💼 Currently working as a **Data Science &amp; Analytics Trainee** at <img src="assets/colan-infotech.png" height="20" alt="Colan Infotech" /> **Colan Infotech Private Limited, Chennai, Tamil Nadu, India** (July 2025 – Present), where I design and build scalable ETL/ELT data pipelines, machine learning solutions, and self-service business intelligence platforms that modernize enterprise reporting and analytics workflows.
-<!-- 🔁 Save uploaded Image 3 into your repo as  assets/colan-infotech.png  -->
+- 💼 Currently working as a **Data Science &amp; Analytics Trainee at Colan Infotech Private Limited, Chennai, Tamil Nadu, India** (July 2025 – Present), where I design and build scalable ETL/ELT data pipelines, machine learning solutions, and self-service business intelligence platforms that modernize enterprise reporting and analytics workflows.
 
 - 🎓 **M.Tech. (Integrated) – Computer Science and Engineering with Specialization in Data Science** graduate at **Vellore Institute of Technology (VIT University), Vellore Campus, Tamil Nadu, India**, from **September 2021 – August 2026 (5-year Program)**.
 
@@ -43,10 +43,9 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 I Code In
+#### The languages I think, prototype, and ship production systems in
 
-<h3>💻 I Code In</h3>
-<em>The languages I think, prototype, and ship production systems in</em><br/><br/>
 <img height="50" width="50" title="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
 <img height="50" width="50" title="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img height="50" width="50" title="R" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/r-lang.svg" />
@@ -54,8 +53,9 @@
 <img height="50" width="50" title="JavaScript" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
 <img height="50" width="50" title="Bash" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg" />
 
-<h3>🤖 I Build Intelligence With</h3>
-<em>Machine Learning, Deep Learning &amp; Generative / Agentic AI</em><br/><br/>
+### 🤖 I Build Intelligence With
+#### Machine Learning, Deep Learning & Generative / Agentic AI
+
 <img height="50" width="50" title="PyTorch" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg" />
 <img height="50" width="50" title="TensorFlow" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
 <img height="50" width="50" title="Keras" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" />
@@ -67,8 +67,9 @@
 <img height="50" width="50" title="LangChain" src="https://github.com/langchain-ai.png?size=80" />
 <img height="50" width="50" title="MLflow" src="https://github.com/mlflow.png?size=80" />
 
-<h3>🏗️ I Engineer Data at Scale With</h3>
-<em>Streaming, batch &amp; big-data platforms that move millions of records</em><br/><br/>
+### 🏗️ I Engineer Data at Scale With
+#### Streaming, batch & big-data platforms that move millions of records
+
 <img height="50" width="50" title="Apache Spark" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apache-spark.svg" />
 <img height="50" width="50" title="Apache Kafka" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kafka.svg" />
 <img height="50" width="50" title="Apache Airflow" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg" />
@@ -77,8 +78,9 @@
 <img height="50" width="50" title="Snowflake" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/snowflake.svg" />
 <img height="50" width="50" title="dbt" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dbt.svg" />
 
-<h3>🗄️ I Store &amp; Retrieve With</h3>
-<em>Relational, NoSQL, graph &amp; vector databases</em><br/><br/>
+### 🗄️ I Store & Retrieve With
+#### Relational, NoSQL, graph & vector databases
+
 <img height="50" width="50" title="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" />
 <img height="50" width="50" title="MySQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" />
 <img height="50" width="50" title="MongoDB" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" />
@@ -87,8 +89,9 @@
 <img height="50" width="50" title="Neo4j" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/neo4j.svg" />
 <img height="50" width="50" title="Pinecone" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pinecone.svg" />
 
-<h3>☁️ I Deploy &amp; Scale With</h3>
-<em>Cloud, MLOps &amp; DevOps that take models from notebook to production</em><br/><br/>
+### ☁️ I Deploy & Scale With
+#### Cloud, MLOps & DevOps that take models from notebook to production
+
 <img height="50" width="50" title="AWS" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" />
 <img height="50" width="50" title="Google Cloud" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" />
 <img height="50" width="50" title="Microsoft Azure" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-azure.svg" />
@@ -99,19 +102,16 @@
 <img height="50" width="50" title="GitHub Actions" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-actions.svg" />
 <img height="50" width="50" title="Grafana" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" />
 
-<h3>📊 I Turn Data Into Decisions With</h3>
-<em>Business intelligence &amp; data storytelling</em><br/><br/>
+### 📊 I Turn Data Into Decisions With
+#### Business intelligence & data storytelling
+
 <img height="50" width="50" title="Power BI" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-power-bi.svg" />
 <img height="50" width="50" title="Tableau" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau.svg" />
 <img height="50" width="50" title="Plotly" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" />
 
-</div>
-
 ---
 
 ## 🌟 Pinned Projects
-
-> End-to-end, production-style platforms — classical ML cores wrapped in agentic AI, on Medallion data architectures with full MLOps.
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -122,9 +122,7 @@
 | [**Industrial IoT Data Lakehouse (Real-Time OEE)**](https://github.com/rohitndev/Industrial-IoT-Data-Lakehouse-with-Delta-Lake-Real-Time-OEE) | Simulates a 12-machine fleet, computes real-time OEE (ISO 22400) & flags anomalies | MQTT · DuckDB · Delta Lake · Isolation Forest · Medallion |
 | [**Production Data Mesh (Cross-Cloud Query)**](https://github.com/rohitndev/Production-Data-Mesh-with-Federated-Governance-Cross-Cloud-Query) | Three domain-owned data products queried together via one federated SQL — no ETL, no data movement | Data Mesh · Federated SQL · Python · FastAPI · SQLite |
 
-<div align="center">
 <a href="https://github.com/rohitndev?tab=repositories"><img src="https://img.shields.io/badge/▶%20Explore%20all%20repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
 
 ---
 
@@ -164,8 +162,6 @@
 
 ## 📊 GitHub & LeetCode Analytics
 
-<div align="center">
-
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitndev&theme=github_dark" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitndev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2C9CF0&icon_color=2C9CF0" />
@@ -179,23 +175,13 @@
 
 <img width="90%" src="https://github-profile-trophy.vercel.app/?username=rohitndev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
-<div>
-
-<!-- ===================== CONTRIBUTION SNAKE (animated) ===================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitndev/rohitndev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitndev/rohitndev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rohitndev/rohitndev/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<!-- ===================== ACTIVITY GRAPH (animated) ===================== -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 ---
 
 <div align="center">
 
-### 🌟 "I turn data into intelligent systems — and intelligent systems into measurable business impact."
+### 🌟 "I transform data into intelligent systems — and intelligent systems into measurable business impact."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
