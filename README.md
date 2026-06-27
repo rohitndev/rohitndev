@@ -160,7 +160,7 @@
 
 ---
 
-## 📊 GitHub & LeetCode & Kaggle Analytics
+## 📊 GitHub and LeetCode Analytics
 
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitndev&theme=github_dark" />
 
