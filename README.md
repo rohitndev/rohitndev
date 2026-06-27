@@ -1,7 +1,12 @@
-<!-- ===================== ANIMATED TAGLINE ===================== -->
+<!-- ===================== GREETING ===================== -->
+<h1 align="center">👋 Hi, I'm ROHIT&nbsp;N</h1>
+<h3 align="center">🤖 AI Engineer &nbsp;·&nbsp; 📊 Data Scientist &nbsp;·&nbsp; 🏗️ Data Engineer &nbsp;·&nbsp; ☁️ Cloud &amp; MLOps Practitioner</h3>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2C9CF0&center=true&vCenter=true&width=850&height=60&lines=%E2%9C%A8+Transforming+Data+into+Intelligence;%F0%9F%A7%A0+Intelligence+into+Strategy;%F0%9F%9A%80+Strategy+into+Measurable+Impact;%E2%9A%99%EF%B8%8F+Building+Scalable%2C+AI-Powered+Data+Platforms)](https://git.io/typing-svg)
+
+<h4>🤖 Agentic AI &nbsp;·&nbsp; 🧠 Machine Learning &nbsp;·&nbsp; 🏗️ Data Engineering &nbsp;·&nbsp; ☁️ Cloud &amp; MLOps &nbsp;·&nbsp; 📈 Measurable Business Impact</h4>
 
 <a href="https://www.linkedin.com/in/rohit-n-148624418/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://rohit-portfolio-rho-gules.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -14,12 +19,15 @@
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data / AI" />
-<!-- 🔁 Swap the GIF above with your own (portfolio screen-capture or an AI/data visual) -->
+<img align="right" width="380" src="assets/workspace.png" alt="data analyst workspace" />
+<!-- 🔁 Save uploaded Image 2 into your repo as  assets/workspace.png  -->
 
-- 💼 Currently working as a **Data Science & Analytics Trainee at Colan Infotech Private Limited, Chennai, Tamil Nadu, India** (July 2025 – Present), where I design and build scalable ETL/ELT data pipelines, machine learning solutions, and self-service business intelligence platforms that modernize enterprise reporting and analytics workflows.
+<div align="justify">
+
+- 💼 Currently working as a **Data Science &amp; Analytics Trainee** at <img src="assets/colan-infotech.png" height="20" alt="Colan Infotech" /> **Colan Infotech Private Limited, Chennai, Tamil Nadu, India** (July 2025 – Present), where I design and build scalable ETL/ELT data pipelines, machine learning solutions, and self-service business intelligence platforms that modernize enterprise reporting and analytics workflows.
+<!-- 🔁 Save uploaded Image 3 into your repo as  assets/colan-infotech.png  -->
 
 - 🎓 **M.Tech. (Integrated) – Computer Science and Engineering with Specialization in Data Science** graduate at **Vellore Institute of Technology (VIT University), Vellore Campus, Tamil Nadu, India**, from **September 2021 – August 2026 (5-year Program)**.
 
@@ -33,82 +41,90 @@
 
 - ⚡ **Fun fact:** I think in pipelines — every messy problem instinctively looks like a Bronze → Silver → Gold flow to me.
 
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**<br/>
-<img height="48" width="48" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="48" width="48" title="SQL" src="https://img.icons8.com/color/48/database.png" />
-<img height="48" width="48" title="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img height="48" width="48" title="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
-<img height="48" width="48" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="48" width="48" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<h3>💻 I Code In</h3>
+<em>The languages I think, prototype, and ship production systems in</em><br/><br/>
+<img height="50" width="50" title="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
+<img height="50" width="50" title="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img height="50" width="50" title="R" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/r-lang.svg" />
+<img height="50" width="50" title="Scala" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/scala.svg" />
+<img height="50" width="50" title="JavaScript" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
+<img height="50" width="50" title="Bash" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg" />
 
-**AI / ML / Deep Learning & Generative AI**<br/>
-<img height="48" width="48" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img height="48" width="48" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img height="48" width="48" title="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-<img height="48" width="48" title="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-<img height="48" width="48" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img height="48" width="48" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img height="48" width="48" title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-<img height="48" title="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
-<img height="48" width="48" title="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" />
-<img height="48" width="48" title="MLflow" src="https://cdn.simpleicons.org/mlflow/0194E2" />
+<h3>🤖 I Build Intelligence With</h3>
+<em>Machine Learning, Deep Learning &amp; Generative / Agentic AI</em><br/><br/>
+<img height="50" width="50" title="PyTorch" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg" />
+<img height="50" width="50" title="TensorFlow" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
+<img height="50" width="50" title="Keras" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" />
+<img height="50" width="50" title="scikit-learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" />
+<img height="50" width="50" title="Pandas" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg" />
+<img height="50" width="50" title="NumPy" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/numpy.svg" />
+<img height="50" width="50" title="OpenCV" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opencv.svg" />
+<img height="50" width="50" title="Hugging Face" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hugging-face.svg" />
+<img height="50" width="50" title="LangChain" src="https://github.com/langchain-ai.png?size=80" />
+<img height="50" width="50" title="MLflow" src="https://github.com/mlflow.png?size=80" />
 
-**Data Engineering & Big Data**<br/>
-<img height="48" width="48" title="Apache Spark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
-<img height="48" width="48" title="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
-<img height="48" width="48" title="Apache Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
-<img height="48" width="48" title="Apache Hadoop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" />
-<img height="48" width="48" title="Databricks" src="https://cdn.simpleicons.org/databricks/FF3621" />
-<img height="48" width="48" title="Snowflake" src="https://cdn.simpleicons.org/snowflake/29B5E8" />
-<img height="48" width="48" title="dbt" src="https://cdn.simpleicons.org/dbt/FF694B" />
+<h3>🏗️ I Engineer Data at Scale With</h3>
+<em>Streaming, batch &amp; big-data platforms that move millions of records</em><br/><br/>
+<img height="50" width="50" title="Apache Spark" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apache-spark.svg" />
+<img height="50" width="50" title="Apache Kafka" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kafka.svg" />
+<img height="50" width="50" title="Apache Airflow" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg" />
+<img height="50" width="50" title="Apache Hadoop" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hadoop.svg" />
+<img height="50" width="50" title="Databricks" src="https://github.com/databricks.png?size=80" />
+<img height="50" width="50" title="Snowflake" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/snowflake.svg" />
+<img height="50" width="50" title="dbt" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dbt.svg" />
 
-**Databases & Vector Stores**<br/>
-<img height="48" width="48" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img height="48" width="48" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height="48" width="48" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img height="48" width="48" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<img height="48" width="48" title="Elasticsearch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
-<img height="48" width="48" title="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
-<img height="48" width="48" title="Pinecone" src="https://cdn.simpleicons.org/pinecone/2C9CF0" />
+<h3>🗄️ I Store &amp; Retrieve With</h3>
+<em>Relational, NoSQL, graph &amp; vector databases</em><br/><br/>
+<img height="50" width="50" title="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" />
+<img height="50" width="50" title="MySQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" />
+<img height="50" width="50" title="MongoDB" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" />
+<img height="50" width="50" title="Redis" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg" />
+<img height="50" width="50" title="Elasticsearch" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/elasticsearch.svg" />
+<img height="50" width="50" title="Neo4j" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/neo4j.svg" />
+<img height="50" width="50" title="Pinecone" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pinecone.svg" />
 
-**Cloud, MLOps & DevOps**<br/>
-<img height="48" width="48" title="AWS" src="https://img.icons8.com/color/48/amazon-web-services.png" />
-<img height="48" width="48" title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img height="48" width="48" title="Microsoft Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img height="48" width="48" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img height="48" width="48" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img height="48" width="48" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-<img height="48" width="48" title="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img height="48" width="48" title="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
-<img height="48" width="48" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+<h3>☁️ I Deploy &amp; Scale With</h3>
+<em>Cloud, MLOps &amp; DevOps that take models from notebook to production</em><br/><br/>
+<img height="50" width="50" title="AWS" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" />
+<img height="50" width="50" title="Google Cloud" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" />
+<img height="50" width="50" title="Microsoft Azure" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-azure.svg" />
+<img height="50" width="50" title="Docker" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" />
+<img height="50" width="50" title="Kubernetes" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" />
+<img height="50" width="50" title="FastAPI" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fastapi.svg" />
+<img height="50" width="50" title="Terraform" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg" />
+<img height="50" width="50" title="GitHub Actions" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-actions.svg" />
+<img height="50" width="50" title="Grafana" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" />
 
-**Business Intelligence & Visualization**<br/>
-<img height="48" width="48" title="Power BI" src="https://img.icons8.com/color/48/power-bi-2021.png" />
-<img height="48" width="48" title="Tableau" src="https://cdn.simpleicons.org/tableau/E97627" />
-<img height="48" width="48" title="Plotly" src="https://cdn.simpleicons.org/plotly/3F4F75" />
+<h3>📊 I Turn Data Into Decisions With</h3>
+<em>Business intelligence &amp; data storytelling</em><br/><br/>
+<img height="50" width="50" title="Power BI" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-power-bi.svg" />
+<img height="50" width="50" title="Tableau" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau.svg" />
+<img height="50" width="50" title="Plotly" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Pinned Projects
 
 > End-to-end, production-style platforms — classical ML cores wrapped in agentic AI, on Medallion data architectures with full MLOps.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Graph-Enhanced Fraud Detection @ 1M TPS**](https://github.com/rohitndev/Graph-Enhanced-Real-Time-Fraud-Detection-At-1M-TPS) | Real-time payment fraud detection exposing fraud rings via graph features | PySpark · XGBoost/CatBoost · LangChain · MLflow · AWS |
-| [**Healthcare Claims Anomaly & Cost Intelligence**](https://github.com/rohitndev/Healthcare-Claims-Anomaly-Detection-Cost-Intelligence-Platform) | HIPAA-compliant fraud/waste/abuse scoring with clinical audit narratives | ICD-10/CPT · Isolation Forest · ClinicalBERT · LLM |
-| [**Agentic Legal Contract Intelligence**](https://github.com/rohitndev/Agentic-Legal-Contract-Intelligence-with-Knowledge-Graph) | Clause risk classification + GraphRAG negotiation agent | Legal-BERT · Neo4j · GraphRAG · LangGraph · FastAPI |
-| [**Autonomous ESG Intelligence (GraphRAG)**](https://github.com/rohitndev/Autonomous-ESG-Intelligence-Platform-with-GraphRAG) | Free alternative to institutional ESG ratings via knowledge graphs | GraphRAG · Knowledge Graph · EU SFDR · AWS S3 |
-| [**Real-Time Customer 360 (CDC + Medallion)**](https://github.com/rohitndev/Real-Time-Customer-360-Platform-with-CDC-Medallion-Architecture) | CDC streaming, identity resolution, unified LTV & churn mart | CDC · Medallion · ML · pandas |
-| [**Executive Revenue Intelligence (NL-to-SQL)**](https://github.com/rohitndev/AI-Augmented-Executive--Revenue-Intelligence-Platform) | Self-correcting natural-language-to-SQL over a dbt semantic layer | Snowflake · dbt · LangChain · ChromaDB · FastAPI |
+| [**Agentic Customer Churn Intelligence Platform**](https://github.com/rohitndev/Agentic-Customer-Churn-Intelligence-Platform) | Predicts telecom churn, explains *why* with SHAP, and acts via a retention agent | XGBoost + LSTM · SHAP · LangGraph/Groq · MLflow · Evidently · GCP Cloud Run |
+| [**Multi-Signal Demand Forecasting**](https://github.com/rohitndev/Multi-Signal-Demand-Forecasting) | Probabilistic retail demand (P10/P50/P90) with weather/Trends/news signals + LLM replenishment agent | Temporal Fusion Transformer · MLflow · Drift Monitoring · FastAPI |
+| [**Autonomous ESG Intelligence (GraphRAG)**](https://github.com/rohitndev/Autonomous-ESG-Intelligence-Platform-with-GraphRAG) | Free alternative to institutional ESG ratings; multi-hop GraphRAG + EU SFDR classification | GraphRAG · Knowledge Graph · LLM · FastAPI · AWS S3 |
+| [**Real-Time Customer 360 (CDC + Medallion)**](https://github.com/rohitndev/Real-Time-Customer-360-Platform-with-CDC-Medallion-Architecture) | CDC streaming, dedup, identity resolution & a unified LTV / churn-risk mart | CDC · Medallion (Bronze/Silver/Gold) · ML · pandas |
+| [**Industrial IoT Data Lakehouse (Real-Time OEE)**](https://github.com/rohitndev/Industrial-IoT-Data-Lakehouse-with-Delta-Lake-Real-Time-OEE) | Simulates a 12-machine fleet, computes real-time OEE (ISO 22400) & flags anomalies | MQTT · DuckDB · Delta Lake · Isolation Forest · Medallion |
+| [**Production Data Mesh (Cross-Cloud Query)**](https://github.com/rohitndev/Production-Data-Mesh-with-Federated-Governance-Cross-Cloud-Query) | Three domain-owned data products queried together via one federated SQL — no ETL, no data movement | Data Mesh · Federated SQL · Python · FastAPI · SQLite |
 
 <div align="center">
 <a href="https://github.com/rohitndev?tab=repositories"><img src="https://img.shields.io/badge/▶%20Explore%20all%20repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -125,13 +141,13 @@
 **Certifications**
 
 <p>
-<img height="22" src="https://img.icons8.com/color/48/amazon-web-services.png" />&nbsp; <b>AWS Certified Machine Learning – Specialty</b>
+<img height="22" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" />&nbsp; <b>AWS Certified Machine Learning – Specialty</b>
 </p>
 <p>
-<img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />&nbsp; <b>Google Cloud Certified Professional Data Engineer</b>
+<img height="22" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" />&nbsp; <b>Google Cloud Certified Professional Data Engineer</b>
 </p>
 <p>
-<img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp; <b>Microsoft Certified: Azure Data Scientist Associate</b>
+<img height="22" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-azure.svg" />&nbsp; <b>Microsoft Certified: Azure Data Scientist Associate</b>
 </p>
 
 </td>
@@ -183,7 +199,7 @@
 
 <div align="center">
 
-### 💡 *"Data becomes valuable only when it drives better decisions, accelerates innovation, and creates lasting impact."*
+### 🌟 "I turn data into intelligent systems — and intelligent systems into measurable business impact."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
