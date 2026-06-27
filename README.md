@@ -97,14 +97,15 @@
 
 ## 🌟 Pinned Projects
 
-| Project | What it does | Stack |
+| Project | What it does | Tech Stack |
 |---|---|---|
-| [**Agentic Customer Churn Intelligence Platform**](https://github.com/rohitndev/Agentic-Customer-Churn-Intelligence-Platform) | Predicts telecom churn, explains *why* with SHAP, and acts via a retention agent | XGBoost + LSTM · SHAP · LangGraph/Groq · MLflow · Evidently · GCP Cloud Run |
-| [**Multi-Signal Demand Forecasting**](https://github.com/rohitndev/Multi-Signal-Demand-Forecasting) | Probabilistic retail demand (P10/P50/P90) with weather/Trends/news signals + LLM replenishment agent | Temporal Fusion Transformer · MLflow · Drift Monitoring · FastAPI |
-| [**Autonomous ESG Intelligence (GraphRAG)**](https://github.com/rohitndev/Autonomous-ESG-Intelligence-Platform-with-GraphRAG) | Free alternative to institutional ESG ratings; multi-hop GraphRAG + EU SFDR classification | GraphRAG · Knowledge Graph · LLM · FastAPI · AWS S3 |
-| [**Real-Time Customer 360 (CDC + Medallion)**](https://github.com/rohitndev/Real-Time-Customer-360-Platform-with-CDC-Medallion-Architecture) | CDC streaming, dedup, identity resolution & a unified LTV / churn-risk mart | CDC · Medallion (Bronze/Silver/Gold) · ML · pandas |
-| [**Industrial IoT Data Lakehouse (Real-Time OEE)**](https://github.com/rohitndev/Industrial-IoT-Data-Lakehouse-with-Delta-Lake-Real-Time-OEE) | Simulates a 12-machine fleet, computes real-time OEE (ISO 22400) & flags anomalies | MQTT · DuckDB · Delta Lake · Isolation Forest · Medallion |
-| [**Production Data Mesh (Cross-Cloud Query)**](https://github.com/rohitndev/Production-Data-Mesh-with-Federated-Governance-Cross-Cloud-Query) | Three domain-owned data products queried together via one federated SQL — no ETL, no data movement | Data Mesh · Federated SQL · Python · FastAPI · SQLite |
+| [**Graph-Enhanced Real-Time Fraud Detection at 1M TPS**](https://github.com/rohitndev/Graph-Enhanced-Real-Time-Fraud-Detection-At-1M-TPS) | Detects coordinated payment fraud in real time using graph analytics, streaming pipelines, ensemble ML, and autonomous AI investigations. | PySpark · Kafka · XGBoost · CatBoost · Neo4j · SHAP · FastAPI |
+| [**Production Data Mesh with Federated Governance**](https://github.com/rohitndev/Production-Data-Mesh-with-Federated-Governance-Cross-Cloud-Query) | Implements a modern Data Mesh with federated governance, enabling cross-domain SQL queries without ETL or data movement. | Data Mesh · Federated SQL · FastAPI · Python · SQLite · DuckDB |
+| [**Industrial IoT Data Lakehouse with Delta Lake**](https://github.com/rohitndev/Industrial-IoT-Data-Lakehouse-with-Delta-Lake-Real-Time-OEE) | Builds a real-time Industrial IoT Lakehouse using Medallion Architecture for OEE monitoring, anomaly detection, and predictive analytics. | Delta Lake · MQTT · DuckDB · Python · Isolation Forest · Medallion |
+| [**Real-Time Customer 360 Platform**](https://github.com/rohitndev/Real-Time-Customer-360-Platform-with-CDC-Medallion-Architecture) | Creates a unified Customer 360 platform using CDC, identity resolution, and Medallion Architecture for real-time customer intelligence. | CDC · Medallion · Python · SQL · DuckDB · FastAPI |
+| [**Predictive Maintenance Platform**](https://github.com/rohitndev/Predictive-Maintenance-Platform-with-Temporal-Fusion-Anomaly-Transformer) | Predicts industrial equipment failures using Temporal Fusion Transformers, Anomaly Transformers, and explainable AI for proactive maintenance. | Temporal Fusion Transformer · Anomaly Transformer · PyTorch · SHAP · FastAPI |
+| [**Autonomous ESG Intelligence Platform (GraphRAG)**](https://github.com/rohitndev/Autonomous-ESG-Intelligence-Platform-with-GraphRAG) | Delivers AI-powered ESG analysis using GraphRAG, Knowledge Graphs, multi-hop reasoning, and automated sustainability reporting. | GraphRAG · Knowledge Graph · LLM · FastAPI · AWS S3 |
+| [**AI-Powered Log Intelligence & Autonomous Incident Response**](https://github.com/rohitndev/AI-Powered-Log-Intelligence-and-Autonomous-Incident-Response) | Correlates logs, detects anomalies, identifies root causes, and automates incident investigation using AI agents and Retrieval-Augmented Generation (RAG). | LLM · RAG · FastAPI · LangChain · Vector Database · Python |
 
 <a href="https://github.com/rohitndev?tab=repositories"><img src="https://img.shields.io/badge/▶%20Explore%20all%20repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" /></a>
 
