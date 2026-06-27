@@ -61,37 +61,52 @@
 
 ---
 
-## 🛠️ Tech Stack
+</div>
 
-### 💻 I Code In
-#### The languages I think, prototype, and ship production systems in
+<h2 align="left">🛠️ Tech Stack</h2>
 
+<h3 align="left">💻 I Code In</h3>
+<h4 align="left"><b>The languages I think, prototype, and ship production systems in</b></h4>
+
+<p align="left">
 <img height="50" width="50" title="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" /> <img height="50" width="50" title="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img height="50" width="50" title="R" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/r-lang.svg" /> <img height="50" width="50" title="Scala" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/scala.svg" /> <img height="50" width="50" title="JavaScript" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" /> <img height="50" width="50" title="Bash" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg" />
+</p>
 
-### 🤖 I Build Intelligence With
-#### Machine Learning, Deep Learning & Generative / Agentic AI
+<h3 align="left">🤖 I Build Intelligence With</h3>
+<h4 align="left"><b>Machine Learning, Deep Learning & Generative / Agentic AI</b></h4>
 
+<p align="left">
 <img height="50" width="50" title="PyTorch" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg" /> <img height="50" width="50" title="TensorFlow" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" /> <img height="50" width="50" title="Keras" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" /> <img height="50" width="50" title="scikit-learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" /> <img height="50" width="50" title="Pandas" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg" /> <img height="50" width="50" title="NumPy" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/numpy.svg" /> <img height="50" width="50" title="OpenCV" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opencv.svg" /> <img height="50" width="50" title="Hugging Face" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hugging-face.svg" /> <img height="50" width="50" title="LangChain" src="https://github.com/langchain-ai.png?size=80" /> <img height="50" width="50" title="MLflow" src="https://github.com/mlflow.png?size=80" />
+</p>
 
-### 🏗️ I Engineer Data at Scale With
-#### Streaming, batch & big-data platforms that move millions of records
+<h3 align="left">🏗️ I Engineer Data at Scale With</h3>
+<h4 align="left"><b>Streaming, batch & big-data platforms that move millions of records</b></h4>
 
-<img height="50" width="50" title="Apache Spark" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apache-spark.svg" /> <img height="50" width="50" title="Apache Kafka" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kafka.svg" /> <img height="50" width="50" title="Apache Airflow" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg" /> <img height="50" width="50" title="Apache Hadoop" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hadoop.svg" /> <img height="50" width="50" title="Databricks" src="https://github.com/databricks.png?size=80" /> <img height="50" width="50" title="Snowflake" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/snowflake.svg" /> <img height="50" width="50" title="dbt" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dbt.svg" />
+<p align="left">
+<img height="50" width="50" title="Apache Spark" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/apache-spark.svg" /> <img height="50" width="50" title="Apache Kafka" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kafka.svg" /> <img height="50" width="50" title="Apache Airflow" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/airflow.svg" /> <img height="50" width="50" title="Apache Hadoop" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hadoop.svg" /> <img height="50" width="50" title="Databricks" src="https://github.com/databricks.png?size=80" /> <img height="50" width="50" title="Snowflake" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/snowflake.svg" />
+<img height="50" width="50" title="dbt" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dbt.svg" />
+</p>
 
-### 🗄️ I Store & Retrieve With
-#### Relational, NoSQL, graph & vector databases
+<h3 align="left">🗄️ I Store & Retrieve With</h3>
+<h4 align="left"><b>Relational, NoSQL, graph & vector databases</b></h4>
 
+<p align="left">
 <img height="50" width="50" title="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" /> <img height="50" width="50" title="MySQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" /> <img height="50" width="50" title="MongoDB" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" /> <img height="50" width="50" title="Redis" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg" /> <img height="50" width="50" title="Elasticsearch" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/elasticsearch.svg" /> <img height="50" width="50" title="Neo4j" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/neo4j.svg" /> <img height="50" width="50" title="Pinecone" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pinecone.svg" />
+</p>
 
-### ☁️ I Deploy & Scale With
-#### Cloud, MLOps & DevOps that take models from notebook to production
+<h3 align="left">☁️ I Deploy & Scale With</h3>
+<h4 align="left"><b>Cloud, MLOps & DevOps that take models from notebook to production</b></h4>
 
+<p align="left">
 <img height="50" width="50" title="AWS" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" /> <img height="50" width="50" title="Google Cloud" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" /> <img height="50" width="50" title="Microsoft Azure" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-azure.svg" /> <img height="50" width="50" title="Docker" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" /> <img height="50" width="50" title="Kubernetes" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" /> <img height="50" width="50" title="FastAPI" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fastapi.svg" /> <img height="50" width="50" title="Terraform" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg" /> <img height="50" width="50" title="GitHub Actions" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-actions.svg" /> <img height="50" width="50" title="Grafana" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" />
+</p>
 
-### 📊 I Turn Data Into Decisions With
-#### Business intelligence & data storytelling
+<h3 align="left">📊 I Turn Data Into Decisions With</h3>
+<h4 align="left"><b>Business intelligence & data storytelling</b></h4>
 
+<p align="left">
 <img height="50" width="50" title="Power BI" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-power-bi.svg" /> <img height="50" width="50" title="Tableau" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau.svg" /> <img height="50" width="50" title="Plotly" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" />
+</p>
 
 ---
 
