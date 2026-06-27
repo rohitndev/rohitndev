@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2C9CF0&center=true&vCenter=true&width=850&height=60&lines=%E2%9C%A8+Transforming+Data+into+Intelligence;%F0%9F%A7%A0+Intelligence+into+Strategy;%F0%9F%9A%80+Strategy+into+Measurable+Impact;%E2%9A%99%EF%B8%8F+Building+Scalable%2C+AI-Powered+Data+Platforms)](https://git.io/typing-svg)
 
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
+
 <a href="https://www.linkedin.com/in/rohit-n-148624418/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://rohit-portfolio-rho-gules.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.kaggle.com/rohitndev"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
@@ -18,8 +20,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
 
 <div align="justify">
 
