@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
 
 ---
 
@@ -157,8 +156,6 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitndev&theme=github_dark&utcOffset=5.5" />
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/devnrohit?ext=heatmap&theme=dark&font=JetBrains%20Mono&animation=true)](https://leetcode.com/u/devnrohit/)
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=rohitndev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
