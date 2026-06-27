@@ -10,7 +10,7 @@
 
 <img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
 
-<br><br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/rohit-n-148624418/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
