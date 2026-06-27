@@ -176,11 +176,6 @@
     <img width="49%" src="https://leetcard.jacoblin.cool/devnrohit?ext=heatmap&theme=dark&font=JetBrains%20Mono&animation=true" />
   </a>
 
-  <a href="https://www.kaggle.com/rohitndev">
-    <img width="49%" src="https://kaggle-card.vercel.app/api?username=rohitndev" />
-  </a>
-</p>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 ---
