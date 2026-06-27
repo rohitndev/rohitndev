@@ -8,6 +8,8 @@
 
 <img align="center" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
 
+
+
 <a href="https://www.linkedin.com/in/rohit-n-148624418/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://rohit-portfolio-rho-gules.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.kaggle.com/rohitndev"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
