@@ -61,7 +61,7 @@
 
 </div>
 
-<h2 align="Center">🛠️ Tech Stack</h2>
+<h2 align="Center">Tech Stack</h2>
 
 <h3 align="left">I Code In</h3>
 <h4 align="left"><b>The languages I think, prototype, and ship production systems in</b></h4>
@@ -92,7 +92,7 @@
 <img height="50" width="50" title="PostgreSQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" /> <img height="50" width="50" title="MySQL" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" /> <img height="50" width="50" title="MongoDB" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" /> <img height="50" width="50" title="Redis" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redis.svg" /> <img height="50" width="50" title="Elasticsearch" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/elasticsearch.svg" /> <img height="50" width="50" title="Neo4j" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/neo4j.svg" /> <img height="50" width="50" title="Pinecone" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pinecone.svg" />
 </p>
 
-<h3 align="left">☁️ I Deploy & Scale With</h3>
+<h3 align="left">I Deploy & Scale With</h3>
 <h4 align="left"><b>Cloud, MLOps & DevOps that take models from notebook to production</b></h4>
 
 <p align="left">
