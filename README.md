@@ -180,7 +180,7 @@
 
 <div align="center">
 
-### "I transform data into intelligent systems — and intelligent systems into measurable business impact."
+### "I transform data into intelligent systems and intelligent systems into measurable business impact."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
