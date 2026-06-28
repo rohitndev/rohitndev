@@ -1,7 +1,5 @@
 <!-- ===================== GREETING ===================== -->
-<h1 align="center">👋 Hi, I'm ROHIT&nbsp;N</h1>
-<h3 align="center">📊 Data Scientist &nbsp;·&nbsp; 🏗️ Data Engineer &nbsp;·&nbsp; 🤖 Machine Learning Engineer &nbsp;·&nbsp; 📈 Business &amp; Data Analyst &nbsp;</h3>
-
+<h1 align="center">Hi, I'm ROHIT&nbsp;N</h1>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2C9CF0&center=true&vCenter=true&width=850&height=60&lines=%E2%9C%A8+Transforming+Data+into+Intelligence;%F0%9F%A7%A0+Intelligence+into+Strategy;%F0%9F%9A%80+Strategy+into+Measurable+Impact;%E2%9A%99%EF%B8%8F+Building+Scalable%2C+AI-Powered+Data+Platforms)](https://git.io/typing-svg)
@@ -39,23 +37,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <div align="justify">
 
-- 💼 Currently working as a **Data Science &amp; Analytics Trainee at Colan Infotech Private Limited, Chennai, Tamil Nadu, India** (July 2025 – Present), where I design and build scalable ETL/ELT data pipelines, machine learning solutions, and self-service business intelligence platforms that modernize enterprise reporting and analytics workflows.
+- Currently working as a **Data Science &amp; Analytics Trainee at Colan Infotech Private Limited, Chennai, Tamil Nadu, India** (July 2025 – Present), where I design and build scalable ETL/ELT data pipelines, machine learning solutions, and self-service business intelligence platforms that modernize enterprise reporting and analytics workflows.
 
-- 🎓 **M.Tech. (Integrated) – Computer Science and Engineering with Specialization in Data Science** graduate at **Vellore Institute of Technology (VIT University), Vellore Campus, Tamil Nadu, India**, from **September 2021 – August 2026 (5-year Program)**.
+- **M.Tech. (Integrated) – Computer Science and Engineering with Specialization in Data Science** graduate at **Vellore Institute of Technology (VIT University), Vellore Campus, Tamil Nadu, India**, from **September 2021 – August 2026 (5-year Program)**.
 
-- 🧠 I specialize in building **end-to-end intelligent systems** positioned at the intersection of **Data Science, Artificial Intelligence, Machine Learning, Data Engineering, and Business Analytics**, with deep focus on **Agentic AI, MLOps, and modern data platforms** including Lakehouse, Medallion (Bronze–Silver–Gold), and Data Mesh architectures.
+- I specialize in building **end-to-end intelligent systems** positioned at the intersection of **Data Science, Artificial Intelligence, Machine Learning, Data Engineering, and Business Analytics**, with deep focus on **Agentic AI, MLOps, and modern data platforms** including Lakehouse, Medallion (Bronze–Silver–Gold), and Data Mesh architectures.
 
-- 🏆 Won national-level recognition as a Student Innovator and was awarded a **₹4.5 Lakh innovation grant** under the **Promoting Innovations in Individuals, Startups and MSMEs (PRISM) Scheme** of the **Department of Scientific and Industrial Research (DSIR), Ministry of Science and Technology, Government of India**, for my final-year capstone project titled **"Autonomous Beehives" (AI in Apiculture)**.
+- Won national-level recognition as a Student Innovator and was awarded a **₹4.5 Lakh innovation grant** under the **Promoting Innovations in Individuals, Startups and MSMEs (PRISM) Scheme** of the **Department of Scientific and Industrial Research (DSIR), Ministry of Science and Technology, Government of India**, for my final-year capstone project titled **"Autonomous Beehives" (AI in Apiculture)**.
 
-- 🎤 Selected to participate as a **Student Innovator at the AI Impact Summit 2026**, held in New Delhi — a national-level platform bringing together innovators, researchers, policymakers, startups, and industry leaders working on emerging Artificial Intelligence technologies — where I presented my Government-funded capstone project **"Autonomous Beehives."**
+- Selected to participate as a **Student Innovator at the AI Impact Summit 2026**, held in New Delhi — a national-level platform bringing together innovators, researchers, policymakers, startups, and industry leaders working on emerging Artificial Intelligence technologies — where I presented my Government-funded capstone project **"Autonomous Beehives."**
 
-- 📄 Published a research paper titled **"Explainable Artificial Intelligence Based Early-Stage Detection of Liver Cancer"** (Authors: Rohit N, Dr. R. Kannadasan), proposing a dual-stage **U-NET segmentation and Explainable AI (XAI)** classification approach for early-stage liver cancer detection on computed-tomography imaging ([DOI](https://doi.org/10.5281/zenodo.17696117)).
+- Published a research paper titled **"Explainable Artificial Intelligence Based Early-Stage Detection of Liver Cancer"** (Authors: Rohit N, Dr. R. Kannadasan), proposing a dual-stage **U-NET segmentation and Explainable AI (XAI)** classification approach for early-stage liver cancer detection on computed-tomography imaging ([DOI](https://doi.org/10.5281/zenodo.17696117)).
 
-- ⚡ **Fun fact:** I think in pipelines — every messy problem instinctively looks like a Bronze → Silver → Gold flow to me.
+- **Fun fact:** I think in pipelines — every messy problem instinctively looks like a Bronze → Silver → Gold flow to me.
 
 </div>
 
@@ -65,21 +63,21 @@
 
 <h2 align="Center">🛠️ Tech Stack</h2>
 
-<h3 align="left">💻 I Code In</h3>
+<h3 align="left">I Code In</h3>
 <h4 align="left"><b>The languages I think, prototype, and ship production systems in</b></h4>
 
 <p align="left">
 <img height="50" width="50" title="Python" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" /> <img height="50" width="50" title="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img height="50" width="50" title="R" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/r-lang.svg" /> <img height="50" width="50" title="Scala" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/scala.svg" /> <img height="50" width="50" title="JavaScript" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" /> <img height="50" width="50" title="Bash" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg" />
 </p>
 
-<h3 align="left">🤖 I Build Intelligence With</h3>
+<h3 align="left">I Build Intelligence With</h3>
 <h4 align="left"><b>Machine Learning, Deep Learning & Generative / Agentic AI</b></h4>
 
 <p align="left">
 <img height="50" width="50" title="PyTorch" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg" /> <img height="50" width="50" title="TensorFlow" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" /> <img height="50" width="50" title="Keras" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" /> <img height="50" width="50" title="scikit-learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" /> <img height="50" width="50" title="Pandas" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg" /> <img height="50" width="50" title="NumPy" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/numpy.svg" /> <img height="50" width="50" title="OpenCV" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opencv.svg" /> <img height="50" width="50" title="Hugging Face" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hugging-face.svg" /> <img height="50" width="50" title="LangChain" src="https://github.com/langchain-ai.png?size=80" /> <img height="50" width="50" title="MLflow" src="https://github.com/mlflow.png?size=80" />
 </p>
 
-<h3 align="left">🏗️ I Engineer Data at Scale With</h3>
+<h3 align="left">I Engineer Data at Scale With</h3>
 <h4 align="left"><b>Streaming, batch & big-data platforms that move millions of records</b></h4>
 
 <p align="left">
@@ -87,7 +85,7 @@
 <img height="50" width="50" title="dbt" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dbt.svg" />
 </p>
 
-<h3 align="left">🗄️ I Store & Retrieve With</h3>
+<h3 align="left">I Store & Retrieve With</h3>
 <h4 align="left"><b>Relational, NoSQL, graph & vector databases</b></h4>
 
 <p align="left">
@@ -101,7 +99,7 @@
 <img height="50" width="50" title="AWS" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" /> <img height="50" width="50" title="Google Cloud" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" /> <img height="50" width="50" title="Microsoft Azure" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-azure.svg" /> <img height="50" width="50" title="Docker" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" /> <img height="50" width="50" title="Kubernetes" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" /> <img height="50" width="50" title="FastAPI" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fastapi.svg" /> <img height="50" width="50" title="Terraform" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg" /> <img height="50" width="50" title="GitHub Actions" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-actions.svg" /> <img height="50" width="50" title="Grafana" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" />
 </p>
 
-<h3 align="left">📊 I Turn Data Into Decisions With</h3>
+<h3 align="left">I Turn Data Into Decisions With</h3>
 <h4 align="left"><b>Business intelligence & data storytelling</b></h4>
 
 <p align="left">
@@ -110,7 +108,7 @@
 
 ---
 
-## 🌟 Pinned Projects
+## Pinned Projects
 
 | Project | What it does | Tech Stack |
 |---|---|---|
@@ -126,7 +124,7 @@
 
 ---
 
-## 📜 Certifications & Achievements
+## Certifications & Achievements
 
 <table>
 <tr>
@@ -148,11 +146,11 @@
 <td width="50%" valign="top">
 
 **Achievements**
-- 🏆 ₹4.5 L **PRISM (DSIR)** Govt. of India innovation grant
-- 🥇 **A+ Distinction** — National Carbon Management Program
-- 🎤 **Student Innovator** — AI Impact Summit 2026, New Delhi
-- 🦈 GitHub **Pull Shark** — open-source contributions
-- 📰 National media: *The New Indian Express*, *The Better India*
+- ₹4.5 L **PRISM (DSIR)** Govt. of India innovation grant
+- **A+ Distinction** — National Carbon Management Program
+- **Student Innovator** — AI Impact Summit 2026, New Delhi
+- GitHub **Pull Shark** — open-source contributions
+- National media: *The New Indian Express*, *The Better India*
 
 </td>
 </tr>
@@ -160,7 +158,7 @@
 
 ---
 
-## 📊 GitHub and LeetCode Analytics
+## GitHub and LeetCode Analytics
 
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitndev&theme=github_dark" />
 
@@ -182,7 +180,7 @@
 
 <div align="center">
 
-### 🌟 "I transform data into intelligent systems — and intelligent systems into measurable business impact."
+### "I transform data into intelligent systems — and intelligent systems into measurable business impact."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
