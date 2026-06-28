@@ -1,5 +1,5 @@
 <!-- ===================== GREETING ===================== -->
-<h1 align="center">Hi, I'm ROHIT&nbsp;N</h1>
+<h1 align="center">👋 Hi, I'm ROHIT&nbsp;N</h1>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2C9CF0&center=true&vCenter=true&width=850&height=60&lines=%E2%9C%A8+Transforming+Data+into+Intelligence;%F0%9F%A7%A0+Intelligence+into+Strategy;%F0%9F%9A%80+Strategy+into+Measurable+Impact;%E2%9A%99%EF%B8%8F+Building+Scalable%2C+AI-Powered+Data+Platforms)](https://git.io/typing-svg)
