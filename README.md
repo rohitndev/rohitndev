@@ -41,7 +41,7 @@
 
 <div align="justify">
 
-- Currently working as a **Data Science &amp; Analytics Trainee at Colan Infotech Private Limited, Chennai, Tamil Nadu, India** (July 2025 – Present), where I design and build scalable ETL/ELT data pipelines, machine learning solutions, and self-service business intelligence platforms that modernize enterprise reporting and analytics workflows.
+- Currently serving as **Director – Business & Data Analytics at Frontier Electrocomponents and Systems Pvt. Ltd Vellore Tamil Nadu India (now merged with TDConnex Chennai India Pvt Ltd.)** (September 2023 – Present), where I lead strategic initiatives across Supply Chain Analytics, Business Intelligence, Manufacturing Operations, and Corporate Governance while driving data-informed executive decision-making.
 
 - **M.Tech. (Integrated) – Computer Science and Engineering with Specialization in Data Science** graduate at **Vellore Institute of Technology (VIT University), Vellore Campus, Tamil Nadu, India**, from **September 2021 – August 2026 (5-year Program)**.
 
