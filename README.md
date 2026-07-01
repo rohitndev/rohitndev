@@ -108,22 +108,6 @@
 
 ---
 
-## Pinned Projects
-
-| Project | What it does | Tech Stack |
-|---|---|---|
-| [**Graph-Enhanced Real-Time Fraud Detection at 1M TPS**](https://github.com/rohitndev/Graph-Enhanced-Real-Time-Fraud-Detection-At-1M-TPS) | Detects coordinated payment fraud in real time using graph analytics, streaming pipelines, ensemble ML, and autonomous AI investigations. | PySpark · Kafka · XGBoost · CatBoost · Neo4j · SHAP · FastAPI |
-| [**Production Data Mesh with Federated Governance**](https://github.com/rohitndev/Production-Data-Mesh-with-Federated-Governance-Cross-Cloud-Query) | Implements a modern Data Mesh with federated governance, enabling cross-domain SQL queries without ETL or data movement. | Data Mesh · Federated SQL · FastAPI · Python · SQLite · DuckDB |
-| [**Industrial IoT Data Lakehouse with Delta Lake**](https://github.com/rohitndev/Industrial-IoT-Data-Lakehouse-with-Delta-Lake-Real-Time-OEE) | Builds a real-time Industrial IoT Lakehouse using Medallion Architecture for OEE monitoring, anomaly detection, and predictive analytics. | Delta Lake · MQTT · DuckDB · Python · Isolation Forest · Medallion |
-| [**Real-Time Customer 360 Platform**](https://github.com/rohitndev/Real-Time-Customer-360-Platform-with-CDC-Medallion-Architecture) | Creates a unified Customer 360 platform using CDC, identity resolution, and Medallion Architecture for real-time customer intelligence. | CDC · Medallion · Python · SQL · DuckDB · FastAPI |
-| [**Predictive Maintenance Platform**](https://github.com/rohitndev/Predictive-Maintenance-Platform-with-Temporal-Fusion-Anomaly-Transformer) | Predicts industrial equipment failures using Temporal Fusion Transformers, Anomaly Transformers, and explainable AI for proactive maintenance. | Temporal Fusion Transformer · Anomaly Transformer · PyTorch · SHAP · FastAPI |
-| [**Autonomous ESG Intelligence Platform (GraphRAG)**](https://github.com/rohitndev/Autonomous-ESG-Intelligence-Platform-with-GraphRAG) | Delivers AI-powered ESG analysis using GraphRAG, Knowledge Graphs, multi-hop reasoning, and automated sustainability reporting. | GraphRAG · Knowledge Graph · LLM · FastAPI · AWS S3 |
-| [**AI-Powered Log Intelligence & Autonomous Incident Response**](https://github.com/rohitndev/AI-Powered-Log-Intelligence-and-Autonomous-Incident-Response) | Correlates logs, detects anomalies, identifies root causes, and automates incident investigation using AI agents and Retrieval-Augmented Generation (RAG). | LLM · RAG · FastAPI · LangChain · Vector Database · Python |
-
-<a href="https://github.com/rohitndev?tab=repositories"><img src="https://img.shields.io/badge/▶%20Explore%20all%20repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" /></a>
-
----
-
 ## Certifications & Achievements
 
 <table>
@@ -175,6 +159,21 @@
   </a>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+---
+## Pinned Projects
+
+| Project | What it does | Tech Stack |
+|---|---|---|
+| [**Graph-Enhanced Real-Time Fraud Detection at 1M TPS**](https://github.com/rohitndev/Graph-Enhanced-Real-Time-Fraud-Detection-At-1M-TPS) | Detects coordinated payment fraud in real time using graph analytics, streaming pipelines, ensemble ML, and autonomous AI investigations. | PySpark · Kafka · XGBoost · CatBoost · Neo4j · SHAP · FastAPI |
+| [**Production Data Mesh with Federated Governance**](https://github.com/rohitndev/Production-Data-Mesh-with-Federated-Governance-Cross-Cloud-Query) | Implements a modern Data Mesh with federated governance, enabling cross-domain SQL queries without ETL or data movement. | Data Mesh · Federated SQL · FastAPI · Python · SQLite · DuckDB |
+| [**Industrial IoT Data Lakehouse with Delta Lake**](https://github.com/rohitndev/Industrial-IoT-Data-Lakehouse-with-Delta-Lake-Real-Time-OEE) | Builds a real-time Industrial IoT Lakehouse using Medallion Architecture for OEE monitoring, anomaly detection, and predictive analytics. | Delta Lake · MQTT · DuckDB · Python · Isolation Forest · Medallion |
+| [**Real-Time Customer 360 Platform**](https://github.com/rohitndev/Real-Time-Customer-360-Platform-with-CDC-Medallion-Architecture) | Creates a unified Customer 360 platform using CDC, identity resolution, and Medallion Architecture for real-time customer intelligence. | CDC · Medallion · Python · SQL · DuckDB · FastAPI |
+| [**Predictive Maintenance Platform**](https://github.com/rohitndev/Predictive-Maintenance-Platform-with-Temporal-Fusion-Anomaly-Transformer) | Predicts industrial equipment failures using Temporal Fusion Transformers, Anomaly Transformers, and explainable AI for proactive maintenance. | Temporal Fusion Transformer · Anomaly Transformer · PyTorch · SHAP · FastAPI |
+| [**Autonomous ESG Intelligence Platform (GraphRAG)**](https://github.com/rohitndev/Autonomous-ESG-Intelligence-Platform-with-GraphRAG) | Delivers AI-powered ESG analysis using GraphRAG, Knowledge Graphs, multi-hop reasoning, and automated sustainability reporting. | GraphRAG · Knowledge Graph · LLM · FastAPI · AWS S3 |
+| [**AI-Powered Log Intelligence & Autonomous Incident Response**](https://github.com/rohitndev/AI-Powered-Log-Intelligence-and-Autonomous-Incident-Response) | Correlates logs, detects anomalies, identifies root causes, and automates incident investigation using AI agents and Retrieval-Augmented Generation (RAG). | LLM · RAG · FastAPI · LangChain · Vector Database · Python |
+
+<a href="https://github.com/rohitndev?tab=repositories"><img src="https://img.shields.io/badge/▶%20Explore%20all%20repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ---
 
