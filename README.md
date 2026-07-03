@@ -6,42 +6,48 @@
 
 <div align="center">
 
-<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
+<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/rohit-n-148624418/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="22" alt="LinkedIn"/>
+  LinkedIn
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <a href="https://rohit-portfolio-rho-gules.vercel.app/" target="_blank">
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="45" alt="Portfolio"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="22" alt="Portfolio"/>
+  Portfolio
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/rohitndev" target="_blank">
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45" alt="Kaggle"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kaggle.svg" width="22" alt="Kaggle"/>
+  Kaggle
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/devnrohit/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45" alt="LeetCode"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="22" alt="LeetCode"/>
+  LeetCode
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <a href="https://www.credly.com/users/rohit-n.17/badges/credly" target="_blank">
-  <img src="https://cdn.simpleicons.org/credly/FF6B00" width="45" alt="Credly"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" width="22" alt="Credly"/>
+  Credly
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <a href="mailto:dev.rohitn@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="22" alt="Email"/>
+  Email
 </a>
 
 </div>
