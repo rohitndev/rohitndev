@@ -144,8 +144,6 @@
 
 ## GitHub and LeetCode Analytics
 
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitndev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2C9CF0&icon_color=2C9CF0" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitndev&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9CF0&fire=2C9CF0&currStreakLabel=2C9CF0" />
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitndev&theme=github_dark" />
