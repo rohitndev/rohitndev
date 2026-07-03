@@ -6,67 +6,29 @@
 
 <div align="center">
 
-<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<br><br>
-
-<table>
-<tr align="center">
-
-<td>
 <a href="https://www.linkedin.com/in/rohit-n-148624418/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br>
-LinkedIn
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-</td>
 
-<td width="35"></td>
-
-<td>
 <a href="https://rohit-portfolio-rho-gules.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>
-Portfolio
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-</td>
 
-<td width="35"></td>
-
-<td>
 <a href="https://www.kaggle.com/rohitndev">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45"/><br>
-Kaggle
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
-</td>
 
-<td width="35"></td>
-
-<td>
 <a href="https://leetcode.com/u/devnrohit/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/><br>
-LeetCode
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
-</td>
 
-<td width="35"></td>
-
-<td>
 <a href="https://www.credly.com/users/rohit-n.17/badges/credly">
-<img src="https://cdn.simpleicons.org/credly/FF6B00" width="45"/><br>
-Credly
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white">
 </a>
-</td>
 
-<td width="35"></td>
-
-<td>
 <a href="mailto:dev.rohitn@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/><br>
-Email
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-</td>
-
-</tr>
-</table>
 
 </div>
 
