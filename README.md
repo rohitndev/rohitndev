@@ -10,49 +10,44 @@
 
 <br><br>
 
-< align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-n-148624418/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br>
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/rohit-n-148624418/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br>
-LinkedIn
-</a>
+  <a href="https://rohit-portfolio-rho-gules.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>
+    Portfolio
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<width="35">
+  <a href="https://www.kaggle.com/rohitndev" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45"/><br>
+    Kaggle
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://rohit-portfolio-rho-gules.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>
-Portfolio
-</a>
+  <a href="https://leetcode.com/u/devnrohit/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/><br>
+    LeetCode
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<width="35">
+  <a href="https://www.credly.com/users/rohit-n.17/badges/credly" target="_blank">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" width="45"/><br>
+    Credly
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.kaggle.com/rohitndev">
-<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45"/><br>
-Kaggle
-</a>
+  <a href="mailto:dev.rohitn@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/><br>
+    Email
+  </a>
+</p>
 
-<width="35">
-
-<a href="https://leetcode.com/u/devnrohit/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/><br>
-LeetCode
-</a>
-
-<width="35">
-
-<a href="https://www.credly.com/users/rohit-n.17/badges/credly">
-<img src="https://cdn.simpleicons.org/credly/FF6B00" width="45"/><br>
-Credly
-</a>
-
-<width="35">
-
-<a href="mailto:dev.rohitn@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/><br>
-Email
-</a>
-
-</div>
+</div> 
 
 ---
 
