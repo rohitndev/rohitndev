@@ -6,76 +6,59 @@
 
 <div align="center">
 
-<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
+<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
 <br><br>
 
-<table>
-<tr align="center">
-
-<td>
 <a href="https://www.linkedin.com/in/rohit-n-148624418/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
-<br>
-<b>LinkedIn</b>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
 </a>
-</td>
 
-<td width="25"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td>
 <a href="https://rohit-portfolio-rho-gules.vercel.app/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/>
-<br>
-<b>Portfolio</b>
+  <img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Portfolio"/>
 </a>
-</td>
 
-<td width="25"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td>
 <a href="https://www.kaggle.com/rohitndev">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48"/>
-<br>
-<b>Kaggle</b>
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="42" alt="Kaggle"/>
 </a>
-</td>
 
-<td width="25"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td>
 <a href="https://leetcode.com/u/devnrohit/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
-<br>
-<b>LeetCode</b>
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="42" alt="LeetCode"/>
 </a>
-</td>
 
-<td width="25"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td>
 <a href="https://www.credly.com/users/rohit-n.17/badges/credly">
-<img src="https://cdn.simpleicons.org/credly/FF6B00" width="48"/>
-<br>
-<b>Credly</b>
+  <img src="https://cdn.simpleicons.org/credly/FF6B00" width="42" alt="Credly"/>
 </a>
-</td>
 
-<td width="25"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td>
 <a href="mailto:dev.rohitn@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"/>
-<br>
-<b>Email</b>
+  <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/>
 </a>
-</td>
 
-</tr>
-</table>
+<br><br>
+
+<a href="https://www.linkedin.com/in/rohit-n-148624418/">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://rohit-portfolio-rho-gules.vercel.app/">Portfolio</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.kaggle.com/rohitndev">Kaggle</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://leetcode.com/u/devnrohit/">LeetCode</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.credly.com/users/rohit-n.17/badges/credly">Credly</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:dev.rohitn@gmail.com">Email</a>
 
 </div>
-
 ---
 
 ## About Me
