@@ -30,11 +30,9 @@
 
 - Won national-level recognition as a Student Innovator and was awarded a **₹4.5 Lakh innovation grant** under the **Promoting Innovations in Individuals, Startups and MSMEs (PRISM) Scheme** of the **Department of Scientific and Industrial Research (DSIR), Ministry of Science and Technology, Government of India**, for my final-year capstone project titled **"Autonomous Beehives" (AI in Apiculture)**.
 
-- Selected to participate as a **Student Innovator at the AI Impact Summit 2026**, held in New Delhi — a national-level platform bringing together innovators, researchers, policymakers, startups, and industry leaders working on emerging Artificial Intelligence technologies — where I presented my Government-funded capstone project **"Autonomous Beehives."**
-
 - Published a research paper titled **"Explainable Artificial Intelligence Based Early-Stage Detection of Liver Cancer"** (Authors: Rohit N, Dr. R. Kannadasan), proposing a dual-stage **U-NET segmentation and Explainable AI (XAI)** classification approach for early-stage liver cancer detection on computed-tomography imaging ([DOI](https://doi.org/10.5281/zenodo.17696117)).
 
-- **Fun fact:** I think in pipelines — every messy problem instinctively looks like a Bronze → Silver → Gold flow to me.
+- **Fun fact:** I think in pipelines every messy problem instinctively looks like a Bronze → Silver → Gold flow to me.
 
 </div>
 
