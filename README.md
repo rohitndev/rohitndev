@@ -14,41 +14,52 @@
   <img width="75" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://rohit-portfolio-rho-gules.vercel.app/">
   <img width="75" src="https://skillicons.dev/icons?i=vercel"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.kaggle.com/rohitndev">
   <img width="75" src="https://cdn.simpleicons.org/kaggle/20BEFF"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/devnrohit/">
   <img width="75" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.credly.com/users/rohit-n.17/badges/credly">
   <img width="75" src="https://cdn.simpleicons.org/credly/FF6B00"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:dev.rohitn@gmail.com">
   <img width="75" src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/rohit-n-148624418/"><b>LinkedIn</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://rohit-portfolio-rho-gules.vercel.app/"><b>Portfolio</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/rohitndev"><b>Kaggle</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/devnrohit/"><b>LeetCode</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/users/rohit-n.17/badges/credly"><b>Credly</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:dev.rohitn@gmail.com"><b>Email</b></a>
 
 </div>
+
 ---
 
 ## About Me
