@@ -10,45 +10,45 @@
 
 <br><br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohit-n-148624418/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br>
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rohit-n-148624418/">
+  <img width="75" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-  <a href="https://rohit-portfolio-rho-gules.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>
-    Portfolio
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://rohit-portfolio-rho-gules.vercel.app/">
+  <img width="75" src="https://skillicons.dev/icons?i=vercel"/>
+</a>
 
-  <a href="https://www.kaggle.com/rohitndev" target="_blank">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45"/><br>
-    Kaggle
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/rohitndev">
+  <img width="75" src="https://cdn.simpleicons.org/kaggle/20BEFF"/>
+</a>
 
-  <a href="https://leetcode.com/u/devnrohit/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/><br>
-    LeetCode
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/devnrohit/">
+  <img width="75" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"/>
+</a>
 
-  <a href="https://www.credly.com/users/rohit-n.17/badges/credly" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" width="45"/><br>
-    Credly
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/users/rohit-n.17/badges/credly">
+  <img width="75" src="https://cdn.simpleicons.org/credly/FF6B00"/>
+</a>
 
-  <a href="mailto:dev.rohitn@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/><br>
-    Email
-  </a>
-</p>
+<a href="mailto:dev.rohitn@gmail.com">
+  <img width="75" src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-</div> 
+<br>
 
+<a href="https://www.linkedin.com/in/rohit-n-148624418/"><b>LinkedIn</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://rohit-portfolio-rho-gules.vercel.app/"><b>Portfolio</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/rohitndev"><b>Kaggle</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/devnrohit/"><b>LeetCode</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/users/rohit-n.17/badges/credly"><b>Credly</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:dev.rohitn@gmail.com"><b>Email</b></a>
+
+</div>
 ---
 
 ## About Me
