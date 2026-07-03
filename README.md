@@ -144,21 +144,13 @@
 
 ## GitHub and LeetCode Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitndev&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9CF0&fire=2C9CF0&currStreakLabel=2C9CF0" />
-</p>
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitndev&theme=github_dark" />
 
-<p align="center">
-  <strong>GitHub:</strong> rohitndev (ROHIT N) <br>
-  <strong>Joined GitHub:</strong> July 8, 2025 <br>
-  <strong>Email:</strong> dev.rohitn@gmail.com
-</p>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitndev&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9CF0&fire=2C9CF0&currStreakLabel=2C9CF0" />
 
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitndev&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitndev&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitndev&theme=github_dark&utcOffset=5.5" />
-</p>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitndev&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitndev&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitndev&theme=github_dark&utcOffset=5.5" />
 
 <p align="center">
   <a href="https://leetcode.com/u/devnrohit/">
@@ -166,9 +158,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 ---
 
