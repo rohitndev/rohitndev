@@ -10,19 +10,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rohit-n-148624418/" style="display:inline-block; text-align:center; margin:0 15px;">
-<img width="50" src="https://skillicons.dev/icons?i=linkedin"/><br><b>LinkedIn</b>
-</a><a href="https://rohit-portfolio-rho-gules.vercel.app/" style="display:inline-block; text-align:center; margin:0 15px;">
-<img width="50" src="https://skillicons.dev/icons?i=vercel"/><br><b>Portfolio</b>
-</a><a href="https://www.kaggle.com/rohitndev" style="display:inline-block; text-align:center; margin:0 15px;">
-<img width="50" src="https://cdn.simpleicons.org/kaggle/20BEFF"/><br><b>Kaggle</b>
-</a><a href="https://leetcode.com/u/devnrohit/" style="display:inline-block; text-align:center; margin:0 15px;">
-<img width="50" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"/><br><b>LeetCode</b>
-</a><a href="https://www.credly.com/users/rohit-n.17/badges/credly" style="display:inline-block; text-align:center; margin:0 15px;">
-<img width="50" src="https://cdn.simpleicons.org/credly/FF6B00"/><br><b>Credly</b>
-</a><a href="mailto:dev.rohitn@gmail.com" style="display:inline-block; text-align:center; margin:0 15px;">
-<img width="50" src="https://skillicons.dev/icons?i=gmail"/><br><b>Email</b>
-</a>
+<a href="https://www.linkedin.com/in/rohit-n-148624418/" style="display:inline-block; text-align:center; margin:0 15px;"> <img width="50" src="https://skillicons.dev/icons?i=linkedin"/><br><b>LinkedIn</b> </a><a href="https://rohit-portfolio-rho-gules.vercel.app/" style="display:inline-block; text-align:center; margin:0 15px;"> <img width="50" src="https://skillicons.dev/icons?i=vercel"/><br><b>Portfolio</b> </a><a href="https://www.kaggle.com/rohitndev" style="display:inline-block; text-align:center; margin:0 15px;"> <img width="50" src="https://cdn.simpleicons.org/kaggle/20BEFF"/><br><b>Kaggle</b> </a><a href="https://leetcode.com/u/devnrohit/" style="display:inline-block; text-align:center; margin:0 15px;"> <img width="50" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"/><br><b>LeetCode</b> </a><a href="https://www.credly.com/users/rohit-n.17/badges/credly" style="display:inline-block; text-align:center; margin:0 15px;"> <img width="50" src="https://cdn.simpleicons.org/credly/FF6B00"/><br><b>Credly</b> </a><a href="mailto:dev.rohitn@gmail.com" style="display:inline-block; text-align:center; margin:0 15px;"> <img width="50" src="https://skillicons.dev/icons?i=gmail"/><br><b>Email</b> </a>
 
 </div>
 
