@@ -8,6 +8,8 @@
 
 <img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+<br>
+
 <a href="https://www.linkedin.com/in/rohit-n-148624418/">
   <img width="75" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -42,6 +44,7 @@
   <img width="75" src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<br><br>
 
 <a href="https://www.linkedin.com/in/rohit-n-148624418/"><b>LinkedIn</b></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
