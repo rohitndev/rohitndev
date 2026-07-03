@@ -6,51 +6,70 @@
 
 <div align="center">
 
-<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/rohit-n-148624418/" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="42" /><br>
-  LinkedIn
+<table>
+<tr align="center">
+
+<td>
+<a href="https://www.linkedin.com/in/rohit-n-148624418/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/><br>
+LinkedIn
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="35"></td>
 
-<a href="https://rohit-portfolio-rho-gules.vercel.app/" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=vercel" width="42" /><br>
-  Portfolio
+<td>
+<a href="https://rohit-portfolio-rho-gules.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" width="45"/><br>
+Portfolio
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="35"></td>
 
-<a href="https://www.kaggle.com/rohitndev" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="42" /><br>
-  Kaggle
+<td>
+<a href="https://www.kaggle.com/rohitndev">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="45"/><br>
+Kaggle
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="35"></td>
 
-<a href="https://leetcode.com/u/devnrohit/" style="text-decoration:none;">
-  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="42" /><br>
-  LeetCode
+<td>
+<a href="https://leetcode.com/u/devnrohit/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45"/><br>
+LeetCode
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="35"></td>
 
-<a href="https://www.credly.com/users/rohit-n.17/badges/credly" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/credly/FF6B00" width="42" /><br>
-  Credly
+<td>
+<a href="https://www.credly.com/users/rohit-n.17/badges/credly">
+<img src="https://cdn.simpleicons.org/credly/FF6B00" width="45"/><br>
+Credly
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="35"></td>
 
-<a href="mailto:dev.rohitn@gmail.com" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=gmail" width="42" /><br>
-  Email
+<td>
+<a href="mailto:dev.rohitn@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/><br>
+Email
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
+
 ---
 
 ## About Me
