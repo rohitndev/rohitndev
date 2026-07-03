@@ -10,45 +10,69 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/rohit-n-148624418/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="22" alt="LinkedIn"/>
-  LinkedIn
+<table>
+<tr align="center">
+
+<td>
+<a href="https://www.linkedin.com/in/rohit-n-148624418/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
+<br>
+<b>LinkedIn</b>
 </a>
+</td>
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
+<td width="25"></td>
 
-<a href="https://rohit-portfolio-rho-gules.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="22" alt="Portfolio"/>
-  Portfolio
+<td>
+<a href="https://rohit-portfolio-rho-gules.vercel.app/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/>
+<br>
+<b>Portfolio</b>
 </a>
+</td>
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
+<td width="25"></td>
 
-<a href="https://www.kaggle.com/rohitndev" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kaggle.svg" width="22" alt="Kaggle"/>
-  Kaggle
+<td>
+<a href="https://www.kaggle.com/rohitndev">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48"/>
+<br>
+<b>Kaggle</b>
 </a>
+</td>
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
+<td width="25"></td>
 
-<a href="https://leetcode.com/u/devnrohit/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="22" alt="LeetCode"/>
-  LeetCode
+<td>
+<a href="https://leetcode.com/u/devnrohit/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48"/>
+<br>
+<b>LeetCode</b>
 </a>
+</td>
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
+<td width="25"></td>
 
-<a href="https://www.credly.com/users/rohit-n.17/badges/credly" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" width="22" alt="Credly"/>
-  Credly
+<td>
+<a href="https://www.credly.com/users/rohit-n.17/badges/credly">
+<img src="https://cdn.simpleicons.org/credly/FF6B00" width="48"/>
+<br>
+<b>Credly</b>
 </a>
+</td>
 
-&nbsp;&nbsp;|&nbsp;&nbsp;
+<td width="25"></td>
 
+<td>
 <a href="mailto:dev.rohitn@gmail.com">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="22" alt="Email"/>
-  Email
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"/>
+<br>
+<b>Email</b>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
