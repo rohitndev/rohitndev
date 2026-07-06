@@ -6,15 +6,34 @@
 
 <div align="center">
 
-<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
 
 <br>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/rohit-n-148624418/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="https://www.linkedin.com/in/rohit-n-148624418/"><img width="50" src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://rohit-portfolio-rho-gules.vercel.app/"><img width="50" src="https://skillicons.dev/icons?i=vercel"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/rohitndev"><img width="50" src="https://cdn.simpleicons.org/kaggle/20BEFF"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/devnrohit/"><img width="50" src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.credly.com/users/rohit-n.17/badges/credly"><img width="50" src="https://cdn.simpleicons.org/credly/FF6B00"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:dev.rohitn@gmail.com"><img width="50" src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://rohit-portfolio-rho-gules.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-</div>
+<a href="https://www.kaggle.com/rohitndev">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/devnrohit/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.credly.com/users/rohit-n.17/badges/credly">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+
+<a href="mailto:dev.rohitn@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 ---
 
