@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://rohitn.in/">
-  <img src="https://img.shields.io/badge/RohitN.in-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.kaggle.com/rohitndev">
