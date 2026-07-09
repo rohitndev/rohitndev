@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://rohit-portfolio-rho-gules.vercel.app/">
+<a href="https://rohitn.in/">
   <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
