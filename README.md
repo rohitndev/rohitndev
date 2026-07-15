@@ -142,21 +142,6 @@
 
 ## GitHub and LeetCode Analytics
 
-<p align="center">
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitndev&layout=compact&theme=github_dark&hide_border=true"
-       alt="Most Used Languages" />
-
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api?username=rohitndev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-       alt="GitHub Analytics" />
-</p>
-
-<p align="center">
-  <img width="98%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&theme=github-dark&hide_border=true"
-       alt="GitHub Contribution Activity Graph" />
-</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/devnrohit/">
