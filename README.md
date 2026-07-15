@@ -145,29 +145,22 @@
 <div align="center">
 
 <a href="https://github.com/rohitndev">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=rohitndev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2C9CF0&icon_color=2C9CF0"
-       alt="Rohit N GitHub Statistics" />
-</a>
-
-<a href="https://github.com/rohitndev">
-  <img width="49%"
+  <img width="55%"
        src="https://github-readme-streak-stats.herokuapp.com/?user=rohitndev&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9CF0&fire=2C9CF0&currStreakLabel=2C9CF0"
-       alt="Rohit N GitHub Streak" />
+       alt="GitHub Contribution Streak" />
 </a>
 
-<a href="https://github.com/rohitndev">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitndev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2C9CF0"
-       alt="Rohit N Programming Languages" />
+<a href="https://leetcode.com/u/devnrohit/">
+  <img width="55%"
+       src="https://leetcard.jacoblin.cool/devnrohit?ext=heatmap&theme=dark&font=JetBrains%20Mono&animation=true"
+       alt="LeetCode Analytics" />
 </a>
 
-<p align="center">
-  <a href="https://leetcode.com/u/devnrohit/">
-    <img width="49%" src="https://leetcard.jacoblin.cool/devnrohit?ext=heatmap&theme=dark&font=JetBrains%20Mono&animation=true" />
-  </a>
+<img width="100%"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"
+     alt="GitHub Contribution Activity" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
 
 ---
 
