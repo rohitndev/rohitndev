@@ -142,9 +142,21 @@
 
 ## GitHub and LeetCode Analytics
 
-<img width="32%" src="https://YOUR-PROJECT.vercel.app/api/cards/repos-per-language?username=rohitndev&theme=github_dark" />
-<img width="32%" src="https://YOUR-PROJECT.vercel.app/api/cards/most-commit-language?username=rohitndev&theme=github_dark" />
-<img width="32%" src="https://YOUR-PROJECT.vercel.app/api/cards/productive-time?username=rohitndev&theme=github_dark&utcOffset=5.5" />
+<p align="center">
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitndev&layout=compact&theme=github_dark&hide_border=true"
+       alt="Most Used Languages" />
+
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api?username=rohitndev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+       alt="GitHub Analytics" />
+</p>
+
+<p align="center">
+  <img width="98%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&theme=github-dark&hide_border=true"
+       alt="GitHub Contribution Activity Graph" />
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/devnrohit/">
