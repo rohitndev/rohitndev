@@ -148,7 +148,7 @@
   <img width="55%"
        src="https://github-readme-streak-stats.herokuapp.com/?user=rohitndev&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9CF0&fire=2C9CF0&currStreakLabel=2C9CF0"
        alt="GitHub Contribution Streak" />
-</a>
+</a> 
 
 <a href="https://leetcode.com/u/devnrohit/">
   <img width="55%"
