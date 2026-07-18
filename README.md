@@ -147,13 +147,11 @@
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitndev&theme=github_dark" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitndev&theme=github_dark&utcOffset=5.5" />
 </p>
-
 <p align="center">
   <a href="https://leetcode.com/u/devnrohit/" target="_blank">
     <img width="49%" src="https://leetcard.jacoblin.cool/devnrohit?ext=heatmap&theme=dark&font=JetBrains%20Mono&animation=true" />
   </a>
 </p>
-
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
