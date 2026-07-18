@@ -142,41 +142,18 @@
 
 ## GitHub and LeetCode Analytics
 
-<!-- Portfolio -->
-<p align="center">
-  <a href="https://rohitn.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-rohitn.in-2C9CF0?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<!-- GitHub Profile Summary -->
-<p align="center">
-  <a href="https://rohitn.in" target="_blank">
-    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitndev&theme=github_dark" />
-  </a>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohitndev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2C9CF0&icon_color=2C9CF0" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitndev&theme=tokyonight&hide_border=true&background=0D1117&ring=2C9CF0&fire=2C9CF0&currStreakLabel=2C9CF0" />
-</p>
-
-<!-- Language Statistics -->
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitndev&theme=github_dark" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitndev&theme=github_dark" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitndev&theme=github_dark&utcOffset=5.5" />
 </p>
 
-<!-- LeetCode -->
 <p align="center">
   <a href="https://leetcode.com/u/devnrohit/" target="_blank">
     <img width="49%" src="https://leetcard.jacoblin.cool/devnrohit?ext=heatmap&theme=dark&font=JetBrains%20Mono&animation=true" />
   </a>
 </p>
 
-<!-- Contribution Graph -->
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitndev&bg_color=0D1117&color=2C9CF0&line=2C9CF0&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
