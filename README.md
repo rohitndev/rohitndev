@@ -144,8 +144,6 @@
 
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitndev&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitndev&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohitndev&theme=github_dark&utcOffset=5.5" />
 </p>
 <p align="center">
   <a href="https://leetcode.com/u/devnrohit/" target="_blank">
